@@ -20,6 +20,10 @@ The Do It Yourself (DIY) versions of our solutions are not CE marked. CE marking
 
 
 
+To get the best experiences with the Universal Wrist, full product details are provided in the [INSTRUCTIONS FOR USE](https://orthopus.com/wp-content/uploads/2021/06/IFU-OR-0112-Work-Hook-ORTHOPUS-Instructions-For-Use.pdf)
+
+
+
 ## CONTRIBUTION
 
 Your contribution to these projects is welcome!
