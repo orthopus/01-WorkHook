@@ -18,11 +18,16 @@ The Do It Yourself (DIY) versions of our solutions are not CE marked. CE marking
 
 **WARNING:** Making a DIY version of the hook can be quite complex and dangerous. These are the reasons why ORTHOPUS will not be sharing a MAKING MANUAL for the Work Hook, for now... 
 
-[![Work_Hook_Fusion360viewer](../../assets/Work_Hook_Fusion360viewer.jpeg)](https://orthopus8.autodesk360.com/g/shares/SH919a0QTf3c32634dcf7ff1727865eb443b)
+However we share the 3D models of the different hook configurations and they can be found on the Work Hook deposit [here](/src) with the corresponding [mechanical drawings](/src/DRW-0112-1xxx-WorkHook.pdf).
 
-🧐 *Tip : open the image in a new tab to view the Tennis Ball Holder in Fusion 360 viewer*
 
-To get the best experiences with the Universal Wrist, full product details are provided in the [INSTRUCTIONS FOR USE](https://orthopus.com/wp-content/uploads/2021/06/IFU-OR-0112-Work-Hook-ORTHOPUS-Instructions-For-Use.pdf)
+[![Work_Hook_Fusion360viewer](assets/Work_Hook_Fusion360viewer.JPG)](https://orthopus8.autodesk360.com/g/shares/SH919a0QTf3c32634dcf7ff1727865eb443b)
+
+🧐 *Tip : open the image in a new tab to view the Work Hook in Fusion 360 viewer*
+
+
+
+To get the best experiences with the Universal Wrist, full product details are provided in the [INSTRUCTIONS FOR USE](https://orthopus.com/wp-content/uploads/2021/06/IFU-OR-0112-Work-Hook-ORTHOPUS-Instructions-For-Use.pdf).
 
 
 
