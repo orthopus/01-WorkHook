@@ -10,14 +10,13 @@ Rock solid, functional, easy to use and maintain, this cable-operated Work Hook 
 
 ## WARNING NOTICE BEFORE STARTING
 
-The versions of our solutions reproduced in Do It Yourself do not have the CE marking. It can only be apply to solutions developed and sold by ORTHOPUS which follow the regulations in force.
-ORTHOPUS cannot guarantee the “quality” of solutions replicated by third parties thanks to documentation shared on github.
+The Do It Yourself (DIY) versions of our solutions are not CE marked. CE marking is only applicable to solutions developed and sold by ORTHOPUS because their design follows the current regulations. ORTHOPUS cannot guarantee the “quality” of solutions replicated by third parties thanks to the documentation shared on github.
 
 
 
 ### D.I.Y LEVEL **⭐⭐⭐⭐⭐**
 
-**Required components:** To make your own Work Hook, you will need ....
+**WARNING:** Making a DIY version of the hook can be quite complex and dangerous. These are the reasons why ORTHOPUS will not be sharing a MAKING MANUAL for the Work Hook, for now... 
 
 
 
