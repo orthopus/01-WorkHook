@@ -16,7 +16,7 @@ The Do It Yourself (DIY) versions of our solutions are not CE marked. CE marking
 
 ### D.I.Y LEVEL **⭐⭐⭐⭐⭐**
 
-**WARNING:** Making a DIY version of the hook can be quite complex and dangerous. These are the reasons why ORTHOPUS will not be sharing a MAKING MANUAL for the Work Hook, for now... 
+**WARNING:** Making a DIY version of the hook can be quite complex and dangerous. These are the reasons why ORTHOPUS will not be sharing a MAKING MANUAL for the Work Hook here. But if you feel comfortable with the making process, please don't hesitate to ask us for the files. 
 
 However we share the 3D models of the different hook configurations and they can be found on the Work Hook deposit [here](/src) with the corresponding [mechanical drawings](/src/DRW-0112-1xxx-WorkHook.pdf).
 
