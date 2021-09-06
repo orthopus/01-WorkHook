@@ -18,7 +18,7 @@ The Do It Yourself (DIY) versions of our solutions are not CE marked. CE marking
 
 **WARNING:** Making a DIY version of the hook can be quite complex and dangerous. These are the reasons why ORTHOPUS will not be sharing a MAKING MANUAL for the Work Hook here. But if you feel comfortable with the making process, please don't hesitate to ask us for the files. 
 
-However we share the 3D models of the different hook configurations and they can be found on the Work Hook deposit [here](/src) with the corresponding [mechanical drawings](/src/DRW-0112-1xxx-WorkHook.pdf).
+However we share the 3D models of the different hook configurations and they can be found on the Work Hook repository [here](/src) with the corresponding [mechanical drawings](/src/DRW-0112-1xxx-WorkHook.pdf).
 
 
 [![Work_Hook_Fusion360viewer](assets/Work_Hook_Fusion360viewer.JPG)](https://orthopus8.autodesk360.com/g/shares/SH919a0QTf3c32634dcf7ff1727865eb443b)
